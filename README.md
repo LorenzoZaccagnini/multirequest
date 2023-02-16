@@ -55,7 +55,7 @@ you can check the coverage by running:
 go test -cover ./...
 ```
 
-Other files are not covered by tests, this is because they are not part of the core logic of the program.
+Some files are not covered by tests, this is because they are not part of the core logic of the program.
 
 ## Build
 
