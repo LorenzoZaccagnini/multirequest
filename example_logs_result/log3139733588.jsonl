@@ -1,0 +1,102 @@
+{"level":"info","time":1676511545,"message":"starting program"}
+{"level":"info","file_path":"./urls.txt","time":1676511545,"message":"file path"}
+{"level":"error","error":"Get \"https://marketingplatform.google....\": dial tcp: lookup marketingplatform.google....: no such host","url":"https://marketingplatform.google....","time":1676511545,"message":"http_error"}
+{"level":"error","error":"Get \"https://googleusercontent.com\": dial tcp: lookup googleusercontent.com: no such host","url":"https://googleusercontent.com","time":1676511545,"message":"http_error"}
+{"level":"error","error":"Get \"https://bp.blogspot.com\": dial tcp: lookup bp.blogspot.com: no such host","url":"https://bp.blogspot.com","time":1676511545,"message":"http_error"}
+{"level":"error","error":"invalid response code","response_code:":403,"url":"https://brandbucket.com","time":1676511545,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://github.com","time":1676511545,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://medium.com","time":1676511545,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://en.wikipedia.org","time":1676511545,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://scribd.com","time":1676511545,"message":"response_code"}
+{"level":"error","error":"invalid response code","response_code:":400,"url":"https://storage.googleapis.com","time":1676511545,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://www.google.com","time":1676511545,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://fr.wikipedia.org","time":1676511545,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://bbc.com","time":1676511545,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://bbc.co.uk","time":1676511545,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://pt.wikipedia.org","time":1676511545,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://feedburner.com","time":1676511545,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://theguardian.com","time":1676511545,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://search.google.com","time":1676511545,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://cloudflare.com","time":1676511545,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://t.co","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://wp.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://w3.org","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://vimeo.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://dan.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://es.wikipedia.org","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://usatoday.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://policies.google.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://wikimedia.org","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://live.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://google.com.br","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://europa.eu","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://tools.google.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://shopify.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://t.me","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://nytimes.com","time":1676511546,"message":"response_code"}
+{"level":"error","error":"invalid response code","response_code:":404,"url":"https://gstatic.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://google.es","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://play.google.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://support.google.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://accounts.google.com","time":1676511546,"message":"response_code"}
+{"level":"error","error":"invalid response code","response_code:":400,"url":"https://forms.gle","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://www.yahoo.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://youtu.be","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://www.blogger.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://facebook.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://files.wordpress.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://amazon.es","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://cnn.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://jimdofree.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://draft.blogger.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://forbes.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://huffingtonpost.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://news.google.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://youtube.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://whatsapp.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://maps.google.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://google.de","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://developers.google.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://mirror.co.uk","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://google.co.jp","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://plesk.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://drive.google.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://slideshare.net","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://msn.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://mozilla.org","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://linkedin.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://vk.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://adobe.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://docs.google.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://plus.google.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://reuters.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://amazon.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://apple.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://nature.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://www.weebly.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://paypal.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://enable-javascript.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://dailymotion.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://istockphoto.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://fb.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://gravatar.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://creativecommons.org","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://booking.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://sites.google.com","time":1676511546,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://opera.com","time":1676511547,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://microsoft.com","time":1676511547,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://line.me","time":1676511547,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://picasaweb.google.com","time":1676511547,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://uol.com.br","time":1676511547,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://wordpress.org","time":1676511547,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://ok.ru","time":1676511547,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://globo.com","time":1676511547,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://cpanel.net","time":1676511547,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://buydomains.com","time":1676511547,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://dropbox.com","time":1676511547,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://myspace.com","time":1676511547,"message":"response_code"}
+{"level":"error","error":"invalid response code","response_code:":403,"url":"https://imdb.com","time":1676511547,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://archive.org","time":1676511547,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://samsung.com","time":1676511547,"message":"response_code"}
+{"level":"info","response_code":200,"url":"https://namecheap.com","time":1676511547,"message":"response_code"}
+{"level":"error","error":"Get \"https://nih.gov\": x509: certificate has expired or is not yet valid: ","url":"https://nih.gov","time":1676511549,"message":"http_error"}
