@@ -65,7 +65,7 @@ go build
 
 ## Github Actions
 
-The github actions are defined in the [main.yml](.github/workflows/test.yml) file. The actions are triggered on every push, testing and building the code.
+The github actions are defined in the [test.yml](.github/workflows/test.yml) file. The actions are triggered on every push, testing and building the code.
 
 #### JSONL file
 
