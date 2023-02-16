@@ -59,6 +59,8 @@ you can check the coverage by running:
 go test -cover ./...
 ```
 
+A code coverage summary is visilbe in the [cover.html](cover.html) file.
+
 Some files are not covered by tests, this is because they are not part of the core logic of the program.
 
 ## Build
