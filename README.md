@@ -1,6 +1,6 @@
 # multirequest
 
-This is a program in GO that makes multiple HTTP GET request taking the URLs from a text file. The multiple requests are made concurrently using **[Goroutines](https://go.dev/doc/effective_go#goroutines)**.
+This is a program in GO that makes multiple HTTP GET requests taking the URLs from a text file. The multiple requests are made concurrently using **[Goroutines](https://go.dev/doc/effective_go#goroutines)**.
 
 ## How to run
 
@@ -104,7 +104,7 @@ docker run -p 8080:8080 multirequest
 
 ## Contributors
 
-Thanks goes to these wonderful people:
+Thanks goes to these wonderful people, just me for now:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
