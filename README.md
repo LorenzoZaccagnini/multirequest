@@ -33,6 +33,10 @@ or for example on Windows using the executable:
 multirequest.exe -f "./my_other_urls.txt"
 ```
 
+In case you made it, you should see something like this:
+
+![multirequest](running.jpg)
+
 ## Test
 
 ```sh
