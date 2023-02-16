@@ -11,6 +11,11 @@ import (
 func InitLogger() zerolog.Logger {
 	//logger setup
 	zerolog.TimeFieldFormat = zerolog.TimeFormatUnix
+	//if not exist create logs folder
+	if _, err := os.Stat("./logs"); os.IsNotExist(err) {
+		os.Mkdir("./logs", 0755)
+	}
+	//create log file
 	logFile, err := os.CreateTemp("./logs/", "log*.jsonl")
 	if err != nil {
 		// Can we log an error before we have our logger? :)
