@@ -95,7 +95,7 @@ go
 docker run -p 8080:8080 multirequest
 ```
 
-## Tech
+## Tech used
 
 - [Go lang v1.19](https://go.dev/)
 - [Zerolog](https://pkg.go.dev/github.com/rs/zerolog)
