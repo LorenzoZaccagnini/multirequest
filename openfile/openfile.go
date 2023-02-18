@@ -7,13 +7,14 @@ import (
 	"github.com/rs/zerolog"
 )
 
-func Init(file_path string, log zerolog.Logger) []string {
+func Init(filePath string, log zerolog.Logger) ([]string, error) {
 	// open url file
 	// if you're lazy just copy go run main.go -f urls.txt
 	var urls []string
-	file, err := os.Open(file_path)
+	file, err := os.Open(filePath)
 	if err != nil {
 		log.Error().Err(err).Timestamp().Msg("invalid argument")
+		return nil, err
 	}
 
 	defer file.Close()
@@ -22,6 +23,7 @@ func Init(file_path string, log zerolog.Logger) []string {
 	urls, err = scanner.ReadFile(file)
 	if err != nil {
 		log.Error().Err(err).Timestamp().Msg("invalid file structure")
+		return nil, err
 	}
-	return urls
+	return urls, nil
 }

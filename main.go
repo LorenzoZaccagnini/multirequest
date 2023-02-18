@@ -5,21 +5,33 @@ import (
 	"multirequest/client"
 	"multirequest/logger"
 	"multirequest/openfile"
+	"os"
 	"sync"
 )
 
 func main() {
 
 	//logger setup
-	fileLogger := logger.InitLogger()
+	fileLogger, err := logger.InitLogger()
+
+	if err != nil {
+		//print error and exit
+		println(err.Error())
+		os.Exit(1)
+	}
 
 	fileLogger.Info().Timestamp().Msg("starting program")
 
 	//args
-	file_path := args.InitArgs(fileLogger)
+	filePath := args.InitArgs(fileLogger)
 
 	//scan file
-	urls := openfile.Init(file_path, fileLogger)
+	urls, err := openfile.Init(filePath, fileLogger)
+	if err != nil {
+		//print error and exit
+		println(err.Error())
+		os.Exit(1)
+	}
 
 	var wg sync.WaitGroup
 	wg.Add(len(urls))
