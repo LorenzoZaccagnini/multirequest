@@ -3,5 +3,5 @@
 build/_workspace
 build/_bin
 tests/testdata
-**/logs/
+logs/**
 **/example_logs_result/
