@@ -96,8 +96,6 @@ docker build -t multirequest .
 Use the docker run command to start a **Docker container** from the image:
 
 ```sh
-go
-
 docker run -p 8080:8080 multirequest
 ```
 

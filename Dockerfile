@@ -4,12 +4,8 @@ FROM golang:1.19-alpine
 
 WORKDIR /app
 
-COPY go.mod ./
-COPY go.sum ./
+COPY . .
 RUN go mod download
-
-COPY *.go ./
-
 RUN go build -o /multirequest
 
 EXPOSE 8080
