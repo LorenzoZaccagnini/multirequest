@@ -14,7 +14,6 @@ func InitLogger() (zerolog.Logger, error) {
 	//if not exist create logs folder
 	if _, err := os.Stat("./logs"); os.IsNotExist(err) {
 		os.Mkdir("./logs", 0755)
-		return zerolog.Logger{}, err
 	}
 	//create log file
 	logFile, err := os.CreateTemp("./logs/", "log*.jsonl")
